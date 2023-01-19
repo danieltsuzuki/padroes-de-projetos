@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="152222fa-5f2c-4978-8c3b-fde2bac844d2" name="Changes" comment="Padrão de projeto Singleton" />
+    <list default="true" id="152222fa-5f2c-4978-8c3b-fde2bac844d2" name="Changes" comment="Padrão de projeto Singleton">
+      <change afterPath="$PROJECT_DIR$/src/gof/strategy/Comportamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gof/strategy/ComportamentoCorrer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gof/strategy/ComportamentoNormal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gof/strategy/Robo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -48,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674102482678</updated>
-      <workItem from="1674102483790" duration="1150000" />
+      <workItem from="1674102483790" duration="1850000" />
     </task>
     <task id="LOCAL-00001" summary="Padrão de projeto Singleton">
       <created>1674103385955</created>
@@ -64,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674103491635</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Padrão de projeto Singleton">
+      <created>1674103679496</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674103679496</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

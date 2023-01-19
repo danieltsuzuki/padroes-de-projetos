@@ -1,3 +1,4 @@
+import gof.facade.Facade;
 import gof.singleton.SingletonEager;
 import gof.singleton.SingletonLazy;
 import gof.singleton.SingletonLazyHolder;
@@ -36,5 +37,10 @@ public class Main {
         robo.mover();
         robo.setComportamento(correr);
         robo.mover();
+
+
+        //Facade
+        Facade sistema = new Facade();
+        sistema.migrarCliente("daniel", "000001");
     }
 }

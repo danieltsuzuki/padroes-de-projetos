@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="152222fa-5f2c-4978-8c3b-fde2bac844d2" name="Changes" comment="Padrão de projeto Singleton">
-      <change afterPath="$PROJECT_DIR$/src/gof/strategy/Comportamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gof/strategy/ComportamentoCorrer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gof/strategy/ComportamentoNormal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gof/strategy/Robo.java" afterDir="false" />
+    <list default="true" id="152222fa-5f2c-4978-8c3b-fde2bac844d2" name="Changes" comment="Padrão de projeto Strategy">
+      <change afterPath="$PROJECT_DIR$/src/gof/facade/Facade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gof/subsistema1/CrmService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gof/subsistema2/CepApi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +41,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -56,7 +61,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674102482678</updated>
-      <workItem from="1674102483790" duration="1850000" />
+      <workItem from="1674102483790" duration="2912000" />
+      <workItem from="1674151759730" duration="655000" />
     </task>
     <task id="LOCAL-00001" summary="Padrão de projeto Singleton">
       <created>1674103385955</created>
@@ -79,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674103679496</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Padrão de projeto Strategy">
+      <created>1674104536982</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674104536982</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +100,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Padrão de projeto Singleton" />
-    <option name="LAST_COMMIT_MESSAGE" value="Padrão de projeto Singleton" />
+    <MESSAGE value="Padrão de projeto Strategy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Padrão de projeto Strategy" />
   </component>
 </project>

@@ -1,6 +1,6 @@
-import gof.SingletonEager;
-import gof.SingletonLazy;
-import gof.SingletonLazyHolder;
+import gof.singleton.SingletonEager;
+import gof.singleton.SingletonLazy;
+import gof.singleton.SingletonLazyHolder;
 
 public class Main {
     public static void main(String[] args) {
